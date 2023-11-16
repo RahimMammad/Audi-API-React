@@ -1,0 +1,81 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "manufacturer": "Audi",
+            "model": "RS6 Perfomance",
+            "engine": 4.0,
+            "charger": "Twin-turbo",
+            "horsepower": 630,
+            "torque": 850,
+            "acceleration": 3.1,
+            "car_type": "Avant",
+            "image": "https://e1.pxfuel.com/desktop-wallpaper/585/193/desktop-wallpaper-2020-21-audi-rs6-avant-c8-v8tt-beast-nardo-gray-carbon-optics-in-beautiful-details-locations-audi-dealers-near-me-2021-audi-s8-v8tt.jpg",
+            "price": 220000
+        },
+        {
+            "id": 2,
+            "manufacturer": "Audi",
+            "model": "RS7 Perfomance",
+            "engine": 4.0,
+            "charger": "Twin-turbo",
+            "horsepower": 630,
+            "torque": 850,
+            "acceleration": 3.1,
+            "car_type": "Sportback",
+            "image": "https://e1.pxfuel.com/desktop-wallpaper/508/21/desktop-wallpaper-wow-2021-audi-rs7-sportback-2021-audi-s8-v8tt.jpg",
+            "price": 230000
+        },
+        {
+            "id": 3,
+            "manufacturer": "Audi",
+            "model": "RS5 Competition",
+            "engine": 2.9,
+            "charger": "Twin-turbo",
+            "horsepower": 480,
+            "torque": 650,
+            "acceleration": 3.4,
+            "car_type": "coupe",
+            "image": "https://w0.peakpx.com/wallpaper/617/958/HD-wallpaper-audi-audi-rs5-audi-rs5-sportback-car-green-car-sport-car.jpg",
+            "price": 160000
+        },
+        {
+            "id": 4,
+            "manufacturer": "Audi",
+            "model": "RS4 Competition",
+            "engine": 2.9,
+            "charger": "Twin-turbo",
+            "horsepower": 480,
+            "torque": 650,
+            "acceleration": 3.4,
+            "car_type": "avant",
+            "image": "https://wallpapercave.com/wp/wp4085630.jpg",
+            "price": 150000
+        },
+        {
+            "id": 5,
+            "manufacturer": "Audi",
+            "model": "RS3 Competition",
+            "engine": 2.5,
+            "charger": "Twin-turbo",
+            "horsepower": 430,
+            "torque": 630,
+            "acceleration": 3.5,
+            "car_type": "hatchback",
+            "image": "https://www.hdcarwallpapers.com/walls/audi_rs_3_sportback_2021_4k-HD.jpg",
+            "price": 110000
+        },
+        {
+            "id": 6,
+            "manufacturer": "Audi",
+            "model": "S8",
+            "engine": 4.0,
+            "charger": "Twin-turbo",
+            "horsepower": 571,
+            "torque": 800,
+            "acceleration": 3.6,
+            "car_type": "business_sedan",
+            "image": "https://www.hdcarwallpapers.com/walls/2022_audi_s8_4k-HD.jpg",
+            "price": 270000
+        }]
+}
